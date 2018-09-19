@@ -15,5 +15,5 @@
 	<br/><img src="imgs/pic6.png">
 	<br/><img src="imgs/pic7.png">
 	<br/><img src="imgs/pic8.png">
-	<p>And this is how you push your changes back to the git server so that another user (or yourself) can fetch them from the server so continue working on them. This also allows people to create branches from your branch as if it was the master.</p><p>This was just pushing to the master itself but if it was a branch it would be the same process. The difference is when it comes to committing the branch to the master. This is done by submitting a pull request for that branch.</p>
+	<p>And this is how you push your changes back to the git server so that another user (or yourself) can fetch them from the server so continue working on them. This also allows people to create branches from your branch as if it was the master.</p><p>This was just pushing to the master itself but if it was a branch it would be the same process. The difference is when it comes to committing the branch to the master. This is done by submitting a pull request for that branch.</p><p>Load the branch, pull request to see how it handles changed files.</p>
 </div>

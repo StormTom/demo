@@ -1,0 +1,16 @@
+.description{
+	background:blue;
+	display:block;
+	margin:auto;
+	background:red;
+	color: white;
+}
+body {
+	color: white;
+	text-align: center;
+	background-image: url('imgs/background.svg');
+
+}
+p, h1, h3{
+	background:gray;
+}

@@ -12,4 +12,8 @@
 	<p>This is the dropdown you get when clicking it. As you can see there is currently just the master branch. This is the 'live' version of the site.</p>
 	<br/><img src="imgs/pic5.png">
 	<p>And this is where you create your new branch to then work on a feature etc.</p>
+	<br/><img src="imgs/pic6.png">
+	<br/><img src="imgs/pic7.png">
+	<br/><img src="imgs/pic8.png">
+	<p>And this is how you push your changes back to the git server so that another user (or yourself) can fetch them from the server so continue working on them. This also allows people to create branches from your branch as if it was the master.</p><p>This was just pushing to the master itself but if it was a branch it would be the same process. The difference is when it comes to committing the branch to the master. This is done by submitting a pull request for that branch.</p>
 </div>
